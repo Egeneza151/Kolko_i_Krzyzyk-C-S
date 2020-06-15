@@ -1,1 +1,1 @@
-TicTacToe-Server
+TicTacToe - Kolko i krzyzyk
