@@ -1,1 +1,1 @@
-TicTacToe - Kolko i krzyzyk
+Kolko i krzyzyk - Tic Tac Toe
